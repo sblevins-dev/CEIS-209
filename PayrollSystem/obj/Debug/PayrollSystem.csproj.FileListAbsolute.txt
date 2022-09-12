@@ -1,0 +1,7 @@
+C:\Users\nechi\OneDrive\Desktop\DeVry\CEIS-209\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\nechi\OneDrive\Desktop\DeVry\CEIS-209\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\nechi\OneDrive\Desktop\DeVry\CEIS-209\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\nechi\OneDrive\Desktop\DeVry\CEIS-209\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.AssemblyReference.cache
+C:\Users\nechi\OneDrive\Desktop\DeVry\CEIS-209\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\nechi\OneDrive\Desktop\DeVry\CEIS-209\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\nechi\OneDrive\Desktop\DeVry\CEIS-209\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
